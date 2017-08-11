@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include post/head.html %}
+<body>
+<style type="text/css">
+ body {
+     padding: 0;
+     margin: 0;
+ }
+ .main-a a{
+     color:black;
+     font-size:25px;
+     text-decoration:none;
+ }
+ .main-a a:hover{
+     color:black;
+     border-bottom:5px solid lightskyblue;
+ }
+</style>
+<div style="background-color:#1a222c;">
+    {% include post/navigation.html %}
+</div>
+<div class="container">
+    <div class="row" style="margin-top:20px;">
+        {% for post in site.posts %}
+        <div class="main-a">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <p>{{ post.date | date: '%B %d, %Y' }} &middot; {{ post.description }}</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% include post/footer.html %}
+</body>
+</html>
