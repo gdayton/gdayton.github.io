@@ -4,11 +4,14 @@ layout: post
 date: 2017-08-01 04:32:31 +0700
 author: glenndayton
 description: Brian Noyes talk on Typescript
+comments: true
+img: /assets/img/keynote.png
 ---
 
-        noyes.me/sd-net-ts
+### San Diego .NET Users Talk / Brian Noyes Typescript
+Code can be found [here](noyes.me/sd-net-ts).
 
-### Typescript overview
+#### Typescript overview
 - Any typescript file can have standard javascript code.
 
 ECMAScript 5 (ES5) is the Javascript version
