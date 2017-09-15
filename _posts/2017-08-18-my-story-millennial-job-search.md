@@ -55,7 +55,7 @@ takes up to 20 times longer.
 occasions after having a discussion with them they recommended me to a more relevant job than the one they originally reached
 out to me for. It separated me from other applicants who might only respond to the recruiters with a sentence length reply email.
 
-It took less than a month to find my current dream job with [PAE](http://www.pae.com) using the formula above. With various companies I did 3 in person interviews, had 7 phone
+It took less than a month to find my current dream job at NASA JPL with Columbus Technologies using the formula above. With various companies I did 3 in person interviews, had 7 phone
 interviews, and had dozens of calls with recruiters. If you're finding that even after several months of searching you're
 not getting results, I'd urge you to look in other states. San Diego, California is a fairly tight job market given the
 abundance of qualified applicants. I began to apply to other states like Washington, and Texas and received far more interest.
