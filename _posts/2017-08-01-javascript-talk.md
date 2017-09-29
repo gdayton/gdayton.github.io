@@ -9,6 +9,9 @@ img: /assets/img/keynote.png
 ---
 
 ### San Diego .NET Users Talk / Brian Noyes Typescript
+
+{% include post/share-buttons.html %}
+
 Code can be found [here](noyes.me/sd-net-ts).
 
 #### Typescript overview

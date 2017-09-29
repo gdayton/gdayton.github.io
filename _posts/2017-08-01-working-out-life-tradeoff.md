@@ -9,6 +9,8 @@ img: /assets/img/running_girl.png
 ---
 ### The Paradox of Exercising for Longevity
 
+{% include post/share-buttons.html %}
+
 Glenn Dayton &middot; August 1, 2017
 
 I spend on average over 3 hours per day ... **just exercising**. This includes getting dressed, taking a shower,

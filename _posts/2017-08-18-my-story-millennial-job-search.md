@@ -9,6 +9,8 @@ img: /assets/img/millennial_job.png
 ---
 ### My Story: Millennial Job Search (Secret Formula)
 
+{% include post/share-buttons.html %}
+
 Glenn Dayton &middot; August 18, 2017
 
 I turned in my last Final and waited a week for grades, later officially graduating from UC Santa Cruz

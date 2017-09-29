@@ -12,7 +12,7 @@
     {% for post in site.posts limit:4 %}
     <li>
         <a class="sidebar-a" href="{{ post.url }}">
-            <img src="{{ post.img }}" style="width:200px;"/>
+            <img src="{{ post.img }}" style="width:200px; -webkit-filter: grayscale(50%); filter: grayscale(50%);"/>
             {{ post.title }}
         </a>
     </li>
