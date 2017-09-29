@@ -13,7 +13,7 @@ img: /assets/img/running_girl.png
 
 Glenn Dayton &middot; August 1, 2017
 
-I spend on average over 3 hours per day ... **just exercising**. This includes getting dressed, taking a shower,
+Lately I've spend on average over 3 hours per day ... *just exercising*. This includes getting dressed, taking a shower,
 driving to and from the gym twice a day, and the actual exercise.
 
 3 hours per day for 60 years is roughly **7 straight years** of sweating, panting, showering, and feeling awful. However,
