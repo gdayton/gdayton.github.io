@@ -9,6 +9,10 @@ img: /assets/img/germany.png
 ---
 ### Working in Germany vs US
 
+{% include post/share-buttons.html %}
+
+Glenn Dayton &middot; October 3, 2017
+
 *My comparisons are based on my experience working in Tettnang, Germany with Avira and with Veeva in Plesanton, California.*
 
 Walking around a company in Germany and 10 minutes later being slingshotted across the world into a company in the US, aesteticics would likely be the only immediately noticible difference. Door handles, interchangable space dividers, and many windows were the first things I noticed that were different. Door hinges were sturdier, heavier, and keys slid into keyholes much smoother. After about several minutes in the lobby of Avira I started to notice everyone was dressed better. Everyone kept to their own and avoided making eye contact. Later that day when I went to the cafeteria for lunch I was surpised to hear slight chatter and dishwashing room clanks, it was very quiet.
