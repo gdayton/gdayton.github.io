@@ -1,5 +1,5 @@
 ---
-title: "Why use Docker? How to start"
+title: "7 Reasons to Start Using Docker"
 layout: post
 date: 2017-10-09 20:02:31 +0700
 author: glenndayton
@@ -7,13 +7,13 @@ description: Docker is becoming hotter and hotter. We'll examine why.
 comments: true
 img: /assets/img/docker.png
 ---
-### Why use Docker? How to start
+### 7 Reasons to Start Using Docker
 
 {% include post/share-buttons.html %}
 
 Glenn Dayton &middot; October 9, 2017
 
-Docker is hot. It's becoming as standard as git in any programming organization. It's one step closer to almost entirely removing version and configuration headaches and further automates developement. But there are so many more reasons Docker is as popular as Kim Kardashian.
+Docker is hot. It's becoming as standard as git in any programming organization. It's one step closer to almost entirely removing version and configuration headaches and further automates development. But there are so many more reasons Docker is as popular as Kim Kardashian.
 
 **Helps with onboarding new people to the development team** With Docker Compose an entire project can be stored on Github, cloned, and then `docker-compose` built. That's it. There's no need for new onboards to install, configure, and get services running on their computer, it's all handled through Docker.
 
