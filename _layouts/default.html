@@ -6,9 +6,29 @@
       <section id="about">
         {% include about.html %}
       </section>
+      <section id="publications">
+        {% include publications.html %}
+      </section>
       <section id="projects">
         {% include projects.html %}
       </section>
+      <section id="presentations">
+        {% include presentations.html %}
+      </section>
+      <div class="user-details">
+        <h3> From my Blog </h3>
+      </div>
+      <div class="row user-projects">
+        <div class="twelve columns" style="text-align:center;">
+          {% for post in site.posts limit:2 %}
+          <div class="main-a">
+            <a href="{{ post.url | prepend: site.baseurl }}" style="color:black; text-decoration: none;"><h5>{{ post.title }}</h5></a>
+            <p>{{ post.description }}</p>
+          </div>
+          {% endfor %}
+          <a href="/blog" style="color:black; text-decoration:none;">more...</a>
+        </div>
+      </div>
         {{ content }}
       {% include footer.html %}
   </body>

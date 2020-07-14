@@ -1,6 +1,6 @@
 # Site settings
 title: Glenn Dayton
-description: Angular 2 Developer
+description: Full Stack Developer
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -18,3 +18,7 @@ google-analytics:
   id: "UA-28176214-3"
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+github: [metadata]
+url: gdayton.github.io
+baseurl: /gdayton.github.io

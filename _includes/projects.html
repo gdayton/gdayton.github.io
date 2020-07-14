@@ -3,6 +3,19 @@
     <h3> Featured Projects </h3>
   </div>
   <div class="row user-projects">
+    <div class="six columns">
+      <img alt="Delivery Time Guru" style="-webkit-filter: grayscale(100%); filter: grayscale(100%);" src="{{ "/assets/img/dtg.png" | prepend: site.baseurl }}" />
+    </div>
+    <div class="six columns">
+      <h5>Delivery Time Guru (Shopify App)</h5>
+      <ul>
+        <li>Node.js (w/ Express and Koa.js microservices), React SSR w/ Next.js, Shopify Polaris, jQuery, Google Cloud Platform (Cloud Run, Storage, App Engine, Task Queues)</li>
+      </ul>
+      <p>Provide customers with real-time accurate delivery dates from major shipping carriers. Customer real-time delivery date countdown—"Get it by Dec. 25"</p>
+      <a class="project-link" href="https://apps.shopify.com/delivery-time-guru">Check it out</a>
+    </div>
+  </div>
+  <div class="row user-projects">
     <div class="six columns images">
       <img alt="orgpoint" style="-webkit-filter: grayscale(100%); filter: grayscale(100%);" src="{{ "/assets/img/orgpoint-shot.png" | prepend: site.baseurl }}" />
     </div>
@@ -29,15 +42,15 @@
     </div>
   </div>
   <div class="row user-projects">
-    <div class="six columns images">
-      <p style="color:darkgray;">Preview unavailable due to NDA</p>
-    </div>
     <div class="six columns">
       <h5>Lucy</h5>
       <li>Angular2, Flask, Bootstrap, HTML/CSS, JIRA API, Across API</li>
       <p>An internal tool built for Avira that allows the marketing team to translate advertisements into multiple
       languages. Interfaces JIRA and Across into internal tool to streamline the pipeline for document translations.</p>
       <a class="project-link" href="">Unavailable</a>
+    </div>
+    <div class="six columns">
+      <img alt="Spuzik" style="-webkit-filter: grayscale(100%); filter: grayscale(100%);" src="{{ "/assets/img/nda.png" | prepend: site.baseurl }}" />
     </div>
   </div>
   <div class="row user-projects">
@@ -52,20 +65,6 @@
       <p>A sports and music social network. Was integrated with Grooveshark with millions of songs free to listen to.
         Users could post photos/videos and discuss anything sports.</p>
       <a class="project-link" href="">Unavailable</a>
-    </div>
-  </div>
-  <div class="user-details">
-    <h3> From my Blog </h3>
-  </div>
-  <div class="row user-projects">
-    <div class="twelve columns" style="text-align:center;">
-      {% for post in site.posts limit:2 %}
-      <div class="main-a">
-        <a href="{{ post.url | prepend: site.baseurl }}" style="color:black; text-decoration: none;"><h5>{{ post.title }}</h5></a>
-        <p>{{ post.description }}</p>
-      </div>
-      {% endfor %}
-      <a href="/blog" style="color:black; text-decoration:none;">more...</a>
     </div>
   </div>
 </div>
