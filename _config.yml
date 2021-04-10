@@ -21,4 +21,4 @@ exclude: ['package.json', 'src' , 'node_modules']
 
 github: [metadata]
 url: gdayton.github.io
-baseurl: /gdayton.github.io
+baseurl: /
