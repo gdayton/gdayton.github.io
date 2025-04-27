@@ -16,6 +16,7 @@ gplus_username: glenndayton
 # Google-analytics
 google-analytics:
   id: "UA-28176214-3"
+  ga4: "G-5XGSWX5SQF"
 
 exclude: ['package.json', 'src' , 'node_modules']
 
